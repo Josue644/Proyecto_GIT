@@ -28,6 +28,7 @@ header .logo {
 h1,
 h2 {
   color: #0071c5;
+  margin-left: 2rem;
 }
 ul {
   margin: 20px;
