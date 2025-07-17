@@ -1,0 +1,17 @@
+{
+  "name": "intel-con-git",
+  "version": "1.0.0",
+  "description": "Procesadores Intel\r Este repositorio es una guía concisa sobre los procesadores Intel, cubriendo su historia, arquitecturas clave y especificaciones importantes. Ideal para entender rápidamente el mundo de las CPUs Intel.",
+  "main": "index.js",
+  "type": "module",                       
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.3"
+  }
+}
